@@ -3,3 +3,5 @@ registry: data/registry.db
 provider: gcp
 offline_store:
   type: bigquery
+  dataset: feast_iris
+  location: US
