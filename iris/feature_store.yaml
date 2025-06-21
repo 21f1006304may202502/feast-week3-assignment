@@ -1,4 +1,4 @@
-project: iris-classification
+project: iris_classification
 registry: data/registry.db
 provider: gcp
 offline_store:
